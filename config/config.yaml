@@ -1,0 +1,55 @@
+interest_topics:
+  - "AI agentic programming"
+  - "LLM"
+#  - "Context Engineering"
+#  - "Kernel Exploitation"
+#  - "Fuzzing"
+  - "Rust"
+#  - "eBPF"
+#  - "Container runtime security"
+#  - "Operating system"
+#  - "Formal Verification"
+
+websites:
+  hackernews:
+    url: "https://news.ycombinator.com/news"
+    enabled: true
+    max_pages: 3
+    delay_between_requests: 1.0
+#  lwn:
+#    url: "https://lwn.net/Archives/"
+#    enabled: true
+#    max_articles: 50
+#    delay_between_requests: 2.0
+
+llm_config:
+  provider: "anthropic"  # claude
+  api_key_env: "ANTHROPIC_API_KEY"
+  model: "claude-3-5-sonnet-20241022"
+  max_tokens: 150
+  temperature: 0.3
+  max_retries: 3
+  rate_limit_delay: 1.0
+
+storage:
+  data_dir: "./data"
+  backup_enabled: true
+  retention_days: 90
+  max_file_size_mb: 100
+
+logging:
+  level: "INFO"
+  file: "./logs/ainews.log"
+  max_file_size_mb: 50
+  backup_count: 5
+
+filtering:
+  min_relevance_score: 0.3
+  max_articles_per_day: 100
+  duplicate_threshold: 0.9
+
+reporting:
+  weekly_day: "sunday"  # day to generate weekly reports
+  output_format: "markdown"  # markdown or html
+  include_summaries: true
+  max_articles_per_topic: 10

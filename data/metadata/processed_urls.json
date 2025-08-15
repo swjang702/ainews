@@ -1,0 +1,657 @@
+{
+  "updated_at": "2025-08-15T13:26:03.497804",
+  "count": 93,
+  "urls": {
+    "https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy": {
+      "url": "https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy",
+      "first_seen": "2025-08-15T12:38:04.349004",
+      "last_seen": "2025-08-15T13:25:48.168839",
+      "process_count": 2,
+      "content_hash": "55125a191d98f735ee263f0740aa7242eabefa411faf9b17cfe0370e732506fc"
+    },
+    "https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/": {
+      "url": "https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/",
+      "first_seen": "2025-08-15T12:38:04.349116",
+      "last_seen": "2025-08-15T13:25:48.168959",
+      "process_count": 2,
+      "content_hash": "a2b3017e61b8382a25ca5484101e3c4daa86641574230daec36bc786253db887"
+    },
+    "https://developers.googleblog.com/en/introducing-gemma-3-270m/": {
+      "url": "https://developers.googleblog.com/en/introducing-gemma-3-270m/",
+      "first_seen": "2025-08-15T12:38:04.349287",
+      "last_seen": "2025-08-15T13:25:48.169158",
+      "process_count": 2,
+      "content_hash": "2b4b01047f839a73044688457b014411192a83f57d9f7ea7ac7655752b048912"
+    },
+    "https://mitchellh.com/writing/ghostty-gtk-rewrite": {
+      "url": "https://mitchellh.com/writing/ghostty-gtk-rewrite",
+      "first_seen": "2025-08-15T12:38:04.349518",
+      "last_seen": "2025-08-15T13:25:48.169390",
+      "process_count": 2,
+      "content_hash": "f586b444e8587ae8f412d3e82688c7d062cd31a6a24c7e0d6cedbedab3a956d9"
+    },
+    "https://news.artnet.com/art-world/cia-kryptos-sculpture-code-auction-2677451": {
+      "url": "https://news.artnet.com/art-world/cia-kryptos-sculpture-code-auction-2677451",
+      "first_seen": "2025-08-15T12:38:04.350017",
+      "last_seen": "2025-08-15T13:25:48.172103",
+      "process_count": 2,
+      "content_hash": "bc683a9e0acbf7d34b55ec430187ea09d1e551a664e572743316a4b11bd2f65d"
+    },
+    "https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese": {
+      "url": "https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese",
+      "first_seen": "2025-08-15T12:38:04.350394",
+      "last_seen": "2025-08-15T13:25:48.169668",
+      "process_count": 2,
+      "content_hash": "f0b3cce3177b34bfc092d5745ae3a1cf62b4f7e0e0d02a461507a1655ae36926"
+    },
+    "https://www.cfr.org/blog/time-end-roundtripping-big-pharma": {
+      "url": "https://www.cfr.org/blog/time-end-roundtripping-big-pharma",
+      "first_seen": "2025-08-15T12:38:04.350822",
+      "last_seen": "2025-08-15T13:25:48.170033",
+      "process_count": 2,
+      "content_hash": "b8284115ddb0b880db43e22e472e644cf0ebb8de1145e72136766f43a146880c"
+    },
+    "http://erlang.org/download/armstrong_thesis_2003.pdf": {
+      "url": "http://erlang.org/download/armstrong_thesis_2003.pdf",
+      "first_seen": "2025-08-15T12:38:04.351661",
+      "last_seen": "2025-08-15T13:25:48.170752",
+      "process_count": 2,
+      "content_hash": "c489c783b6f2b7b083de8443e59842532684ae0a153fad7bfb4f7b07bad14579"
+    },
+    "https://zed.dev/blog/why-llms-cant-build-software": {
+      "url": "https://zed.dev/blog/why-llms-cant-build-software",
+      "first_seen": "2025-08-15T12:38:04.352162",
+      "last_seen": "2025-08-15T13:25:48.171202",
+      "process_count": 2,
+      "content_hash": "4fe1490510aa1a57f2aec9c7ebfdcd6601128cb826e82e824caf71782d0bdd7c"
+    },
+    "https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/": {
+      "url": "https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/",
+      "first_seen": "2025-08-15T12:38:04.353010",
+      "last_seen": "2025-08-15T13:25:48.172947",
+      "process_count": 2,
+      "content_hash": "e9dfa3a06d019abc85e16ab9319e253f8040b0f550871cb1b4e37daab7e3b58b"
+    },
+    "https://danielchasehooper.com/posts/syscall-build-snooping/": {
+      "url": "https://danielchasehooper.com/posts/syscall-build-snooping/",
+      "first_seen": "2025-08-15T12:38:04.353792",
+      "last_seen": "2025-08-15T13:25:48.175041",
+      "process_count": 2,
+      "content_hash": "dfdfa84f63343090f7cb9396cbdf9e44f0b5e75cb9e107da7df0d8f2807402b0"
+    },
+    "https://aeplay.org/citybound": {
+      "url": "https://aeplay.org/citybound",
+      "first_seen": "2025-08-15T12:38:04.355064",
+      "last_seen": "2025-08-15T13:25:48.179494",
+      "process_count": 2,
+      "content_hash": "5236f98f2934f9d4b92fa8618c56858188887361dc1d4e6badaa3030749dfe8c"
+    },
+    "https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466": {
+      "url": "https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466",
+      "first_seen": "2025-08-15T12:38:04.356710",
+      "last_seen": "2025-08-15T13:25:48.176727",
+      "process_count": 2,
+      "content_hash": "f0a78a9071b94c4e83b6f749e79d3834a124e17aceb096147f90b39e1a6e6bff"
+    },
+    "https://docs.hyprnote.com/owhisper/what-is-this": {
+      "url": "https://docs.hyprnote.com/owhisper/what-is-this",
+      "first_seen": "2025-08-15T12:38:04.357719",
+      "last_seen": "2025-08-15T13:25:48.177789",
+      "process_count": 2,
+      "content_hash": "dc9af1c78ccda22848e23bce166a11e07dbe5a9f576c101244cf698e57ebd830"
+    },
+    "https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html": {
+      "url": "https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html",
+      "first_seen": "2025-08-15T12:38:04.359638",
+      "last_seen": "2025-08-15T13:25:48.182633",
+      "process_count": 2,
+      "content_hash": "ce5786c512622de2be539ae317bf4db55bb6530864c7f08a1e72fe43398231db"
+    },
+    "https://github.com/tanrax/org-social": {
+      "url": "https://github.com/tanrax/org-social",
+      "first_seen": "2025-08-15T12:38:04.361430",
+      "last_seen": "2025-08-15T13:25:48.184615",
+      "process_count": 2,
+      "content_hash": "1c48e2f6b00015095e46a320da4f3910dd5a7d506284c5498f2178290e7f0c16"
+    },
+    "https://www.coolandcollected.com/airbrush-art-of-the-80s-was-chrome-tastic/": {
+      "url": "https://www.coolandcollected.com/airbrush-art-of-the-80s-was-chrome-tastic/",
+      "first_seen": "2025-08-15T12:38:04.362823",
+      "last_seen": "2025-08-15T13:25:48.186135",
+      "process_count": 2,
+      "content_hash": "086b9212fbde321aa75402f76b2f3d4c3fc533c3e477f653b7fd97b64adbf531"
+    },
+    "https://www.core77.com/posts/137962/The-Kuzma-Self-Playing-Guitar-System": {
+      "url": "https://www.core77.com/posts/137962/The-Kuzma-Self-Playing-Guitar-System",
+      "first_seen": "2025-08-15T12:38:04.363938",
+      "last_seen": "2025-08-15T13:25:48.180471",
+      "process_count": 2,
+      "content_hash": "ed1134f341cf86f3f62aa49a6f49f1da67353cf8a218c9fa841694dbb1fb2c65"
+    },
+    "https://onesignal.com/careers": {
+      "url": "https://onesignal.com/careers",
+      "first_seen": "2025-08-15T12:38:04.365070",
+      "last_seen": "2025-08-15T13:25:48.189492",
+      "process_count": 2,
+      "content_hash": "5d708792102b63e7bf5d5eba80aaf4eae7d64e0f2af1b8dc995cfb960c4a934e"
+    },
+    "https://github.com/embedpdf/embed-pdf-viewer": {
+      "url": "https://github.com/embedpdf/embed-pdf-viewer",
+      "first_seen": "2025-08-15T12:38:04.367073",
+      "last_seen": "2025-08-15T13:25:48.188188",
+      "process_count": 2,
+      "content_hash": "34458b9a284d244cad1c6d2b9e258422d6bf617c90862fdd854de1e0d882d0ec"
+    },
+    "https://www.youtube.com/watch?v=sSpULGNHyoI": {
+      "url": "https://www.youtube.com/watch?v=sSpULGNHyoI",
+      "first_seen": "2025-08-15T12:38:04.368738",
+      "last_seen": "2025-08-15T13:25:48.193025",
+      "process_count": 2,
+      "content_hash": "3c888e143b47a389dcd6391169c0abaf26c88df8dfacfc1121fff9d6d5ae8bfd"
+    },
+    "https://github.com/facebookresearch/dinov3": {
+      "url": "https://github.com/facebookresearch/dinov3",
+      "first_seen": "2025-08-15T12:38:04.369132",
+      "last_seen": "2025-08-15T13:25:48.193458",
+      "process_count": 2,
+      "content_hash": "ac20b32b7938e477d642d8a8cd408c907d5ac83dde2c8f88586ebc25216584fb"
+    },
+    "https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/": {
+      "url": "https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/",
+      "first_seen": "2025-08-15T12:38:04.370880",
+      "last_seen": "2025-08-15T13:25:48.196877",
+      "process_count": 2,
+      "content_hash": "0d2f069859f96e66f76918183226f7d06765d0118e16c6593971043a243bbe63"
+    },
+    "https://www.wsj.com/economy/american-job-housing-economic-dynamism-d56ef8fc": {
+      "url": "https://www.wsj.com/economy/american-job-housing-economic-dynamism-d56ef8fc",
+      "first_seen": "2025-08-15T12:38:04.373734",
+      "last_seen": "2025-08-15T13:25:48.241846",
+      "process_count": 2,
+      "content_hash": "cc785c2265a42a2232c1aef2b18cef1b78a4e86c7bc954fe852600485fce834a"
+    },
+    "https://www.wired.com/story/palantir-what-the-company-does/": {
+      "url": "https://www.wired.com/story/palantir-what-the-company-does/",
+      "first_seen": "2025-08-15T12:38:04.375171",
+      "last_seen": "2025-08-15T13:25:48.194908",
+      "process_count": 2,
+      "content_hash": "1620a5a88728e07a97dc293575b0e55c5e0ff7df3cd3df4717aed4fbe6a82a75"
+    },
+    "https://github.com/rcarmo/homekit-steam-user-switcher": {
+      "url": "https://github.com/rcarmo/homekit-steam-user-switcher",
+      "first_seen": "2025-08-15T12:38:04.378348",
+      "last_seen": "2025-08-15T13:25:48.204334",
+      "process_count": 2,
+      "content_hash": "3a78e3870c03b85222873f912c61d4a09603fb40d890c272df763458c6cf891f"
+    },
+    "https://www.seangoedecke.com/real-reasoning/": {
+      "url": "https://www.seangoedecke.com/real-reasoning/",
+      "first_seen": "2025-08-15T12:38:04.380327",
+      "last_seen": "2025-08-15T13:25:48.198877",
+      "process_count": 2,
+      "content_hash": "c9ee3c219f8808dd7330fbcc91f8e8a6d9dd7e0080210bebe6b702caf322abca"
+    },
+    "https://thephd.dev/lambdas-nested-functions-block-expressions-oh-my": {
+      "url": "https://thephd.dev/lambdas-nested-functions-block-expressions-oh-my",
+      "first_seen": "2025-08-15T12:38:04.382283",
+      "last_seen": "2025-08-15T13:25:48.200809",
+      "process_count": 2,
+      "content_hash": "086d5629cc0f922fba262b9f717920e4de5d60a40eee9f21836182e2a69885e4"
+    },
+    "https://resobscura.substack.com/p/all-souls-exam-questions-and-the": {
+      "url": "https://resobscura.substack.com/p/all-souls-exam-questions-and-the",
+      "first_seen": "2025-08-15T12:38:04.385188",
+      "last_seen": "2025-08-15T13:25:48.207384",
+      "process_count": 2,
+      "content_hash": "85129477c3cdc7779039dd86ef073edee7dc13c18369e62e2610bea75ca94eab"
+    },
+    "https://news.ycombinator.com/item?id=44901528": {
+      "url": "https://news.ycombinator.com/item?id=44901528",
+      "first_seen": "2025-08-15T12:38:04.388518",
+      "last_seen": "2025-08-15T12:38:04.388518",
+      "process_count": 1,
+      "content_hash": "c8ab202bf94ba4d80548553f834cec4ff7b7ffaa28fe5cb7598ee345e5fc74a2"
+    },
+    "https://media.ccc.de/v/why2025-218-how-to-rig-elections": {
+      "url": "https://media.ccc.de/v/why2025-218-how-to-rig-elections",
+      "first_seen": "2025-08-15T12:38:04.390265",
+      "last_seen": "2025-08-15T13:25:48.210829",
+      "process_count": 2,
+      "content_hash": "71913b06dbeeb62b2baeaed5b64c50d68cba5c45f5ca3a83301a0a8869f49217"
+    },
+    "https://lwn.net/Articles/1001773/": {
+      "url": "https://lwn.net/Articles/1001773/",
+      "first_seen": "2025-08-15T12:38:04.392084",
+      "last_seen": "2025-08-15T13:25:48.209093",
+      "process_count": 2,
+      "content_hash": "7d1a54f0056cf7bcced231c9965d4c5d724c23320af52a3353150994dbc66319"
+    },
+    "https://tomverbeure.github.io/2025/08/10/HP-5370A-Repair.html": {
+      "url": "https://tomverbeure.github.io/2025/08/10/HP-5370A-Repair.html",
+      "first_seen": "2025-08-15T12:38:04.394479",
+      "last_seen": "2025-08-15T13:25:48.219975",
+      "process_count": 2,
+      "content_hash": "c718faf50a0d3758b558eb20e37bd6cc28d27fe209bbc64063669d8ee9444e23"
+    },
+    "https://startwithawhy.com/reverseproxy/2025/08/08/ReverseProxy-Deep-Dive-Part4.html": {
+      "url": "https://startwithawhy.com/reverseproxy/2025/08/08/ReverseProxy-Deep-Dive-Part4.html",
+      "first_seen": "2025-08-15T12:38:04.397713",
+      "last_seen": "2025-08-15T13:25:48.213959",
+      "process_count": 2,
+      "content_hash": "f1fe2c4105a4f33f6b4742231e238183b74417f0c6a34bbfe593b42ba34ca6cf"
+    },
+    "https://bsky.social/about/blog/08-14-2025-updated-terms-and-policies": {
+      "url": "https://bsky.social/about/blog/08-14-2025-updated-terms-and-policies",
+      "first_seen": "2025-08-15T12:38:04.400025",
+      "last_seen": "2025-08-15T13:25:48.216143",
+      "process_count": 2,
+      "content_hash": "d6bddcf5c5c831d00db29153cce5d63fc7d9d2a18bf04c81e6252f5bb1351e01"
+    },
+    "https://gmays.com/500-days-of-math/": {
+      "url": "https://gmays.com/500-days-of-math/",
+      "first_seen": "2025-08-15T12:38:04.401283",
+      "last_seen": "2025-08-15T13:25:48.217338",
+      "process_count": 2,
+      "content_hash": "f35b80cd295691a3fe8d46401c2b35dc937e0109089c828cc3ebdccc0a75fa49"
+    },
+    "https://www.seangoedecke.com/model-on-a-mbp/": {
+      "url": "https://www.seangoedecke.com/model-on-a-mbp/",
+      "first_seen": "2025-08-15T12:38:04.405514",
+      "last_seen": "2025-08-15T13:25:48.224144",
+      "process_count": 2,
+      "content_hash": "b479adafcae6a12fec3a6db01beee2a0fbb3ca9c6b1e48ed5419fc49e889ac8b"
+    },
+    "https://bitsandtheorems.com/managing-time-shiftable-devices/": {
+      "url": "https://bitsandtheorems.com/managing-time-shiftable-devices/",
+      "first_seen": "2025-08-15T12:38:04.407953",
+      "last_seen": "2025-08-15T13:25:48.236813",
+      "process_count": 2,
+      "content_hash": "b9d2a6203ce9b25a54b8fa07f3ff4d5f012a4729a70f8d8a00996c00db7f5860"
+    },
+    "https://clearsky.dev/blog/iphone-devops-ssh/": {
+      "url": "https://clearsky.dev/blog/iphone-devops-ssh/",
+      "first_seen": "2025-08-15T12:38:04.409470",
+      "last_seen": "2025-08-15T13:25:48.225575",
+      "process_count": 2,
+      "content_hash": "7a9d6352bedab958a1425909668800eb825663b765098798a495f46d639f0be4"
+    },
+    "https://zenobiapay.com/blog/open-source-payments": {
+      "url": "https://zenobiapay.com/blog/open-source-payments",
+      "first_seen": "2025-08-15T12:38:04.414257",
+      "last_seen": "2025-08-15T13:25:48.230137",
+      "process_count": 2,
+      "content_hash": "7e45d4db5ed50368bdb5eb3f948f75907cc5233ba42f5474e10a9c0addca896a"
+    },
+    "https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/": {
+      "url": "https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/",
+      "first_seen": "2025-08-15T12:38:04.417179",
+      "last_seen": "2025-08-15T13:25:48.234144",
+      "process_count": 2,
+      "content_hash": "d5584c1fc11b2a785565876f285ed45c8cfe680ceeec4d6852f8110569df690f"
+    },
+    "https://shayne.dev/blog/saas-is-dead/": {
+      "url": "https://shayne.dev/blog/saas-is-dead/",
+      "first_seen": "2025-08-15T12:38:04.418481",
+      "last_seen": "2025-08-15T13:25:48.231367",
+      "process_count": 2,
+      "content_hash": "96059bff31e8d45865074e472b90e606e1cc592b3dc760c699dba3d727398b52"
+    },
+    "https://allenai.org/blog/nsf-nvidia": {
+      "url": "https://allenai.org/blog/nsf-nvidia",
+      "first_seen": "2025-08-15T12:38:04.423130",
+      "last_seen": "2025-08-15T13:25:48.246576",
+      "process_count": 2,
+      "content_hash": "b425014117c95526421f553ad50b9fb7795ba161f71ce5a15b2e0647d137e40c"
+    },
+    "https://manuals.omamix.org/2/the-omarchy-manual": {
+      "url": "https://manuals.omamix.org/2/the-omarchy-manual",
+      "first_seen": "2025-08-15T12:38:04.424738",
+      "last_seen": "2025-08-15T13:25:48.261228",
+      "process_count": 2,
+      "content_hash": "ad1ec3aacc92f26b562b36598e8f3ac528fb01fcd39ac9bb7135d5fe8d0a6646"
+    },
+    "https://irisvanrooijcogsci.com/2025/08/12/ai-slop-and-the-destruction-of-knowledge/": {
+      "url": "https://irisvanrooijcogsci.com/2025/08/12/ai-slop-and-the-destruction-of-knowledge/",
+      "first_seen": "2025-08-15T12:38:04.427906",
+      "last_seen": "2025-08-15T13:25:48.249814",
+      "process_count": 2,
+      "content_hash": "78b0d7a0fa81e640e507c2b130416fa45d3fac90beb8916f377cb7f282a7e04c"
+    },
+    "http://0x80.pl/notesen/2025-01-18-simd-heap.html": {
+      "url": "http://0x80.pl/notesen/2025-01-18-simd-heap.html",
+      "first_seen": "2025-08-15T12:38:04.430422",
+      "last_seen": "2025-08-15T13:25:48.255430",
+      "process_count": 2,
+      "content_hash": "f093f22a7c4966b09f68fd01b082f0030d260b1576c67a5c273edec8af15e8f3"
+    },
+    "https://www.bloomberg.com/news/articles/2025-08-14/us-producer-prices-rise-by-most-in-three-years-on-services": {
+      "url": "https://www.bloomberg.com/news/articles/2025-08-14/us-producer-prices-rise-by-most-in-three-years-on-services",
+      "first_seen": "2025-08-15T12:38:04.434257",
+      "last_seen": "2025-08-15T13:25:48.259438",
+      "process_count": 2,
+      "content_hash": "ced0f5c3a1cb6d9bb87c44e1b5fd5b5dab36bd5fac67bad3dcd048875000f7b1"
+    },
+    "https://mashable.com/archive/soviet-hobbit": {
+      "url": "https://mashable.com/archive/soviet-hobbit",
+      "first_seen": "2025-08-15T12:38:04.437322",
+      "last_seen": "2025-08-15T13:25:48.252819",
+      "process_count": 2,
+      "content_hash": "3f42f189a307a7fef1c5f5d13dbdb443f116100124fab54b6a78d826e403a2e0"
+    },
+    "https://news.ycombinator.com/item?id=44876174": {
+      "url": "https://news.ycombinator.com/item?id=44876174",
+      "first_seen": "2025-08-15T12:38:04.441264",
+      "last_seen": "2025-08-15T13:25:48.267267",
+      "process_count": 2,
+      "content_hash": "463bfa86c2d7c8fca27d13b8e47dcaab39ec2257cccd44a03d5ec3ca83e67261"
+    },
+    "https://docs.anthropic.com/en/docs/claude-code/output-styles": {
+      "url": "https://docs.anthropic.com/en/docs/claude-code/output-styles",
+      "first_seen": "2025-08-15T12:38:04.443664",
+      "last_seen": "2025-08-15T13:25:48.278948",
+      "process_count": 2,
+      "content_hash": "0365e889df27e190ccdcf1586b3fe001475c09a92d5b51c3e93106e19a82418a"
+    },
+    "https://github.com/NineSunsInc/mighty-security": {
+      "url": "https://github.com/NineSunsInc/mighty-security",
+      "first_seen": "2025-08-15T12:38:04.445614",
+      "last_seen": "2025-08-15T13:25:48.292934",
+      "process_count": 2,
+      "content_hash": "1593b9cb92fc8b417651990d9730ff7235445a74418bdfd513b6a5a2893961a7"
+    },
+    "https://ourworldindata.org/new-international-poverty-line-3-dollars-per-day": {
+      "url": "https://ourworldindata.org/new-international-poverty-line-3-dollars-per-day",
+      "first_seen": "2025-08-15T12:38:04.450351",
+      "last_seen": "2025-08-15T13:25:48.276353",
+      "process_count": 2,
+      "content_hash": "b042c89c4a3a2880bf61fe140a79026e011a4f72c16cffb723f6a0497e99326e"
+    },
+    "https://dillonshook.com/passion-over-profits/": {
+      "url": "https://dillonshook.com/passion-over-profits/",
+      "first_seen": "2025-08-15T12:38:04.452488",
+      "last_seen": "2025-08-15T13:25:48.286348",
+      "process_count": 2,
+      "content_hash": "588982d82871bc2157c6df2f6e2768c39acba054acfbe046ed021a3b61942a97"
+    },
+    "https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/": {
+      "url": "https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/",
+      "first_seen": "2025-08-15T12:38:04.456847",
+      "last_seen": "2025-08-15T13:25:48.271487",
+      "process_count": 2,
+      "content_hash": "89ac1daf048e59197f1da82945b7eea6bf63402571b6aabc9605d07fbcf6c89a"
+    },
+    "https://www.dailymail.co.uk/news/article-15000185/las-vegas-foreclosures-trump-tariffs-boycott-tourism.html": {
+      "url": "https://www.dailymail.co.uk/news/article-15000185/las-vegas-foreclosures-trump-tariffs-boycott-tourism.html",
+      "first_seen": "2025-08-15T12:38:04.460526",
+      "last_seen": "2025-08-15T12:38:04.460526",
+      "process_count": 1,
+      "content_hash": "4102bceb4ae10c0a5ff484f0127579faa47cffcb8ebd089fc61a5819d38541ff"
+    },
+    "https://radicle.xyz/2025/08/14/jujutsu-with-radicle": {
+      "url": "https://radicle.xyz/2025/08/14/jujutsu-with-radicle",
+      "first_seen": "2025-08-15T12:38:04.462599",
+      "last_seen": "2025-08-15T13:25:48.263170",
+      "process_count": 2,
+      "content_hash": "a7a06add3665b475023aa322ac7e5ff3d2f93142c5475f41800f6d9c28d8e9a3"
+    },
+    "https://github.com/modelence/modelence": {
+      "url": "https://github.com/modelence/modelence",
+      "first_seen": "2025-08-15T12:38:04.465803",
+      "last_seen": "2025-08-15T13:25:48.296312",
+      "process_count": 2,
+      "content_hash": "54556291bc968c75d80e83c1cb6dc9607d9ca882edab799981ce583608148256"
+    },
+    "https://www.nytimes.com/2025/08/14/business/energy-environment/ai-data-centers-electricity-costs.html": {
+      "url": "https://www.nytimes.com/2025/08/14/business/energy-environment/ai-data-centers-electricity-costs.html",
+      "first_seen": "2025-08-15T12:38:04.472279",
+      "last_seen": "2025-08-15T13:25:48.303207",
+      "process_count": 2,
+      "content_hash": "b9e1a3aa358fc6f00db95f6346722f0761a41b211d2f3c15e6e7f8a0f2befb17"
+    },
+    "https://m.slashdot.org/story/445588": {
+      "url": "https://m.slashdot.org/story/445588",
+      "first_seen": "2025-08-15T12:38:04.477537",
+      "last_seen": "2025-08-15T13:25:48.357391",
+      "process_count": 2,
+      "content_hash": "ff7ac51d664c9631ecf5176b5ea0b599c4f8185e6f9e9e63ad9a3d9f758cc1c4"
+    },
+    "https://video.golpoai.com/": {
+      "url": "https://video.golpoai.com/",
+      "first_seen": "2025-08-15T12:38:04.483093",
+      "last_seen": "2025-08-15T13:25:48.284051",
+      "process_count": 2,
+      "content_hash": "9f71065e9ce24378d750f87c508c41205307074b69ac02488ebe27d860099487"
+    },
+    "https://www.ft.com/content/1b398769-2784-45f2-997c-03c4b923eb29": {
+      "url": "https://www.ft.com/content/1b398769-2784-45f2-997c-03c4b923eb29",
+      "first_seen": "2025-08-15T12:38:04.490211",
+      "last_seen": "2025-08-15T13:25:48.390073",
+      "process_count": 2,
+      "content_hash": "11552414e5bf64a342becd762e02bd06fd8a7a6482738a7f0d073080b41e90c7"
+    },
+    "https://pluralistic.net/2025/08/14/bellovin/": {
+      "url": "https://pluralistic.net/2025/08/14/bellovin/",
+      "first_seen": "2025-08-15T12:38:04.494965",
+      "last_seen": "2025-08-15T13:25:48.329969",
+      "process_count": 2,
+      "content_hash": "15ca3f30ff599bd1304515a055a2c4381f87822fa6b2084b6bdc705dcba034b5"
+    },
+    "https://blog.nginx.org/blog/native-support-for-acme-protocol": {
+      "url": "https://blog.nginx.org/blog/native-support-for-acme-protocol",
+      "first_seen": "2025-08-15T12:38:04.499842",
+      "last_seen": "2025-08-15T13:25:48.290660",
+      "process_count": 2,
+      "content_hash": "3ebc03ff336cd4eaf3d496121c14ee1a5e2062289bd87729fd1ab520ebe15e85"
+    },
+    "https://osf.io/preprints/osf/jx3pk_v1": {
+      "url": "https://osf.io/preprints/osf/jx3pk_v1",
+      "first_seen": "2025-08-15T12:38:04.506182",
+      "last_seen": "2025-08-15T13:25:48.340203",
+      "process_count": 2,
+      "content_hash": "bb1b466e573a8ae464b7f07451b26a1c2726e3afac30f59e87f8eb67cad08b3d"
+    },
+    "https://www.kodak.com/en/company/blog-post/statement-regarding-misleading-media-reports/": {
+      "url": "https://www.kodak.com/en/company/blog-post/statement-regarding-misleading-media-reports/",
+      "first_seen": "2025-08-15T12:38:04.513602",
+      "last_seen": "2025-08-15T13:25:48.321229",
+      "process_count": 2,
+      "content_hash": "336f01f178b45eaa02fca9df8a87904336932db8253e0611883f35cf6c3b3277"
+    },
+    "https://www.phoronix.com/news/Linux-ASI-Lower-Overhead": {
+      "url": "https://www.phoronix.com/news/Linux-ASI-Lower-Overhead",
+      "first_seen": "2025-08-15T12:38:04.520370",
+      "last_seen": "2025-08-15T13:25:48.309356",
+      "process_count": 2,
+      "content_hash": "33a7f7773e7276c298f1f7a4bae7bd4a1b68be5174c2353e6a856a1316352891"
+    },
+    "https://flak.tedunangst.com/post/what-is-the-go-proxy-even-doing": {
+      "url": "https://flak.tedunangst.com/post/what-is-the-go-proxy-even-doing",
+      "first_seen": "2025-08-15T12:38:04.524297",
+      "last_seen": "2025-08-15T13:25:48.324972",
+      "process_count": 2,
+      "content_hash": "4063b4917c3c23434b29e6baaa86c4e12005b5d5fb6e00505ce4b8a3b9e42a71"
+    },
+    "https://clearsky.dev/blog/xr2000/": {
+      "url": "https://clearsky.dev/blog/xr2000/",
+      "first_seen": "2025-08-15T12:38:04.529493",
+      "last_seen": "2025-08-15T13:25:48.314060",
+      "process_count": 2,
+      "content_hash": "4b75909ddecde3f044a403120be76c58142261918edb61865de80c800a236ccd"
+    },
+    "https://www.roadandtrack.com/news/a65780529/volkswagen-uk-locking-id-3-horsepower-behind-subscription/": {
+      "url": "https://www.roadandtrack.com/news/a65780529/volkswagen-uk-locking-id-3-horsepower-behind-subscription/",
+      "first_seen": "2025-08-15T12:38:04.535794",
+      "last_seen": "2025-08-15T13:25:48.411673",
+      "process_count": 2,
+      "content_hash": "308865fc4cdad8d5c1e58e1320d29a3847d029446bf7a746d75bcd6018d10d15"
+    },
+    "https://www.wsj.com/tech/us-stake-intel-1ff24500": {
+      "url": "https://www.wsj.com/tech/us-stake-intel-1ff24500",
+      "first_seen": "2025-08-15T12:38:04.541267",
+      "last_seen": "2025-08-15T13:25:48.404477",
+      "process_count": 2,
+      "content_hash": "01d49f462bc7a2a3490840b69acf6597858c05233aba6f3931844b1af03ea85e"
+    },
+    "https://www.benkuhn.net/writing/": {
+      "url": "https://www.benkuhn.net/writing/",
+      "first_seen": "2025-08-15T12:38:04.546952",
+      "last_seen": "2025-08-15T13:25:48.350898",
+      "process_count": 2,
+      "content_hash": "9fd0aebbea4f8aaf130b6f302e40eb1b710ef5d8e634f267748343034b696928"
+    },
+    "https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b": {
+      "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b",
+      "first_seen": "2025-08-15T12:38:04.550834",
+      "last_seen": "2025-08-15T13:25:48.333539",
+      "process_count": 2,
+      "content_hash": "477df01ee0b5b7177dd24918b98ec5cf400821d11264db668a18f74e7eb18fd3"
+    },
+    "https://dri.es/funding-open-source-like-public-infrastructure": {
+      "url": "https://dri.es/funding-open-source-like-public-infrastructure",
+      "first_seen": "2025-08-15T12:38:04.556473",
+      "last_seen": "2025-08-15T13:25:48.345427",
+      "process_count": 2,
+      "content_hash": "f61861f533933a1a59c51cd396682b1e40d858610c569e180445d5d76211a751"
+    },
+    "https://learn.convo-lang.ai/": {
+      "url": "https://learn.convo-lang.ai/",
+      "first_seen": "2025-08-15T12:38:04.561801",
+      "last_seen": "2025-08-15T13:25:48.362468",
+      "process_count": 2,
+      "content_hash": "a2b949385a07b7b6def47e879ef197a4d3933d7b05f0fbda39cbefcd9ec54297"
+    },
+    "https://www.vaultrice.com/": {
+      "url": "https://www.vaultrice.com/",
+      "first_seen": "2025-08-15T12:38:04.570044",
+      "last_seen": "2025-08-15T13:25:48.398465",
+      "process_count": 2,
+      "content_hash": "9eaa83156932b4f12ccf527b8e6f66054c6561b944e450294ea66f4d60703b4e"
+    },
+    "https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/": {
+      "url": "https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/",
+      "first_seen": "2025-08-15T12:38:04.575573",
+      "last_seen": "2025-08-15T13:25:48.381253",
+      "process_count": 2,
+      "content_hash": "70ab9e8ec4dd610e49af5bf17ea0e2faaf5b49f87fdf19e163ce3f584ffcfd50"
+    },
+    "https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers": {
+      "url": "https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers",
+      "first_seen": "2025-08-15T12:38:04.580102",
+      "last_seen": "2025-08-15T13:25:48.416399",
+      "process_count": 2,
+      "content_hash": "a52146e66c4dbbefbb338640719cf0d3264914e96aa62d6ddd07879237e7e641"
+    },
+    "https://ai.meta.com/dinov3/?_fb_noscript=1": {
+      "url": "https://ai.meta.com/dinov3/?_fb_noscript=1",
+      "first_seen": "2025-08-15T12:38:04.588023",
+      "last_seen": "2025-08-15T13:25:48.375824",
+      "process_count": 2,
+      "content_hash": "887ca48c68921e064d551fd5aed7b83c609fa84affc11ac093ca388b745a6533"
+    },
+    "https://www.infinitelymore.xyz/p/what-are-the-real-numbers-really": {
+      "url": "https://www.infinitelymore.xyz/p/what-are-the-real-numbers-really",
+      "first_seen": "2025-08-15T12:38:04.593251",
+      "last_seen": "2025-08-15T13:25:48.463563",
+      "process_count": 2,
+      "content_hash": "c61c44f2ccbd555d4c0aec573ad37e22e729d8caea38f341584ef93e52d66ece"
+    },
+    "https://www.lunarg.com/a-vulkan-on-metal-mesa-3d-graphics-driver/": {
+      "url": "https://www.lunarg.com/a-vulkan-on-metal-mesa-3d-graphics-driver/",
+      "first_seen": "2025-08-15T12:38:04.599954",
+      "last_seen": "2025-08-15T13:25:48.441057",
+      "process_count": 2,
+      "content_hash": "383563ff16ed0fde1faa1fcf27cc0b3e5100e6418f9bac88cb1e0be412615352"
+    },
+    "https://jackpoulson.substack.com/p/when-counterculture-and-empire-merge": {
+      "url": "https://jackpoulson.substack.com/p/when-counterculture-and-empire-merge",
+      "first_seen": "2025-08-15T12:38:04.605426",
+      "last_seen": "2025-08-15T13:25:48.421884",
+      "process_count": 2,
+      "content_hash": "8e8b9c27ffdda6f0b73b3aaab354450641778a527f656e2b6835c33365640e07"
+    },
+    "https://kirancodes.me/posts/log-ocaml-to-lean.html": {
+      "url": "https://kirancodes.me/posts/log-ocaml-to-lean.html",
+      "first_seen": "2025-08-15T12:38:04.612241",
+      "last_seen": "2025-08-15T13:25:48.368463",
+      "process_count": 2,
+      "content_hash": "afe84ffb265d1e51f676e968a24b42e84fff8671e224a0051da8d350f19f595b"
+    },
+    "https://forgefed.org": {
+      "url": "https://forgefed.org",
+      "first_seen": "2025-08-15T12:38:04.619219",
+      "last_seen": "2025-08-15T13:25:48.434083",
+      "process_count": 2,
+      "content_hash": "0924084c8fa9ad1a17bff8f2e7ee9e3f768e296e309e34b556f6fd77a2bb1379"
+    },
+    "https://astral.sh/blog/introducing-pyx": {
+      "url": "https://astral.sh/blog/introducing-pyx",
+      "first_seen": "2025-08-15T12:38:04.624703",
+      "last_seen": "2025-08-15T13:25:48.427196",
+      "process_count": 2,
+      "content_hash": "7c233df34cc04e14387d928561f15e55230ce06bfbcc9e67a3b5161af0f5b01d"
+    },
+    "https://therecord.media/north-korean-hackers-targeting-open-source-repositories": {
+      "url": "https://therecord.media/north-korean-hackers-targeting-open-source-repositories",
+      "first_seen": "2025-08-15T12:38:04.635028",
+      "last_seen": "2025-08-15T12:38:04.635028",
+      "process_count": 1,
+      "content_hash": "84d58a190c45e83a9d2ffb8f9ed7bda0d77884230485934fee906c99148d83e6"
+    },
+    "https://www.statnews.com/2025/08/13/rfk-jr-mrna-vaccine-research-science-papers-justification-misreading/": {
+      "url": "https://www.statnews.com/2025/08/13/rfk-jr-mrna-vaccine-research-science-papers-justification-misreading/",
+      "first_seen": "2025-08-15T12:38:04.644423",
+      "last_seen": "2025-08-15T13:25:48.488614",
+      "process_count": 2,
+      "content_hash": "9f9d537e6801944aed016c5e9bde8744e6f7f35349090273a943e47b30f58d51"
+    },
+    "https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices": {
+      "url": "https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices",
+      "first_seen": "2025-08-15T12:38:04.654614",
+      "last_seen": "2025-08-15T13:25:48.450784",
+      "process_count": 2,
+      "content_hash": "8836b461d5bb7f347a2e2613eedcc98e480a5abb6ca445772b95200e892e3a05"
+    },
+    "https://www.anthropic.com/news/1m-context": {
+      "url": "https://www.anthropic.com/news/1m-context",
+      "first_seen": "2025-08-15T12:38:04.662032",
+      "last_seen": "2025-08-15T13:25:48.457753",
+      "process_count": 2,
+      "content_hash": "5d54c0725d53013f0e15c8cbc4df5c74e3ce1c4e9afafc944b87562a7613785c"
+    },
+    "https://news.sky.com/story/facial-recognition-vans-to-be-rolled-out-across-police-forces-in-england-13410613": {
+      "url": "https://news.sky.com/story/facial-recognition-vans-to-be-rolled-out-across-police-forces-in-england-13410613",
+      "first_seen": "2025-08-15T12:38:04.672411",
+      "last_seen": "2025-08-15T13:25:48.473645",
+      "process_count": 2,
+      "content_hash": "51b5af174ad93f812ec4cc2f001f29f137b35883a0c0a6204c02df42b39c8e01"
+    },
+    "https://www.theregister.com/2025/08/13/claude_codes_copious_coddling_confounds/": {
+      "url": "https://www.theregister.com/2025/08/13/claude_codes_copious_coddling_confounds/",
+      "first_seen": "2025-08-15T12:38:04.680382",
+      "last_seen": "2025-08-15T12:38:04.680382",
+      "process_count": 1,
+      "content_hash": "1808c6f08943aef1fd84e53d2af71a698809df65f225645f1411ee86769aacf5"
+    },
+    "https://www.narrator.sh/": {
+      "url": "https://www.narrator.sh/",
+      "first_seen": "2025-08-15T13:25:48.174149",
+      "last_seen": "2025-08-15T13:25:48.174149",
+      "process_count": 1,
+      "content_hash": "363dc31a22560adc7897807f0164a01c0638b90971010d6ac1dd191dda85f431"
+    },
+    "https://m-creativelab.github.io/jsar-runtime/blogs/spatial-browser-engine.html": {
+      "url": "https://m-creativelab.github.io/jsar-runtime/blogs/spatial-browser-engine.html",
+      "first_seen": "2025-08-15T13:25:48.191180",
+      "last_seen": "2025-08-15T13:25:48.191180",
+      "process_count": 1,
+      "content_hash": "a9ae39b7f7154838eb14fb061ad45f206db685072b9357397110c186d5993def"
+    },
+    "https://10print.org": {
+      "url": "https://10print.org",
+      "first_seen": "2025-08-15T13:25:48.478783",
+      "last_seen": "2025-08-15T13:25:48.478783",
+      "process_count": 1,
+      "content_hash": "6a34b99d3e46bef9ee404d788d541d623f6d2e2d524272540c3ab49b97575849"
+    }
+  }
+}

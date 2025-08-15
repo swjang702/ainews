@@ -1,0 +1,11 @@
+{
+  "session_id": "abc12966a9e3",
+  "start_time": "2025-08-15T12:38:01.359185",
+  "end_time": "2025-08-15T12:38:04.686605",
+  "websites_crawled": [
+    "hackernews"
+  ],
+  "articles_found": 90,
+  "articles_processed": 2,
+  "errors": []
+}

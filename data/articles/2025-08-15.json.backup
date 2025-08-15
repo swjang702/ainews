@@ -1,0 +1,38 @@
+{
+  "date": "2025-08-15",
+  "count": 2,
+  "articles": [
+    {
+      "id": "8cadd34d2b56afdc",
+      "title": "Convo-Lang: LLM Programming Language and Runtime",
+      "url": "https://learn.convo-lang.ai/",
+      "source": "hackernews",
+      "discovered_date": "2025-08-15T12:38:04.347133",
+      "content_hash": "6acabf92e657b3ce7daa456fb6e175da91b1f642bd462896e1e802e6315655ad",
+      "summary": "Summary generation failed",
+      "related_topics": [
+        "AI agentic programming",
+        "LLM"
+      ],
+      "relevance_score": 0.41862098120373303,
+      "raw_content": "Convo-Lang: LLM Programming Language and Runtime\n68 points by handfuloflight 21 hours ago | hide | 35 comments",
+      "processed_at": "2025-08-15T12:38:04.347133"
+    },
+    {
+      "id": "2a69c36dd2edf7a7",
+      "title": "I made a real-time C/C++/Rust build visualizer",
+      "url": "https://danielchasehooper.com/posts/syscall-build-snooping/",
+      "source": "hackernews",
+      "discovered_date": "2025-08-15T12:38:02.003135",
+      "content_hash": "7a9048de6c62e4078c22a9c87931265483fd2d075aa72680e28a068517ebdc1d",
+      "summary": "Summary generation failed",
+      "related_topics": [
+        "Rust"
+      ],
+      "relevance_score": 0.3238483924814932,
+      "raw_content": "I made a real-time C/C++/Rust build visualizer\n231 points by dhooper 11 hours ago | hide | 55 comments",
+      "processed_at": "2025-08-15T12:38:02.003135"
+    }
+  ],
+  "saved_at": "2025-08-15T12:38:04.684887"
+}

@@ -1,0 +1,275 @@
+2025-08-15 12:24:34 - ainews - INFO - Saved 3 articles for 2025-08-15
+2025-08-15 12:24:44 - ainews - INFO - Filtered 3 relevant articles from 4 total
+2025-08-15 12:28:59 - ainews - INFO - Starting daily crawl process
+2025-08-15 12:28:59 - ainews - ERROR - Failed to initialize LLM client: Anthropic package not installed. Install with: pip install anthropic
+2025-08-15 12:28:59 - ainews - ERROR - Unexpected error during crawl: Anthropic package not installed. Install with: pip install anthropic
+2025-08-15 12:29:26 - ainews - INFO - Starting daily crawl process
+2025-08-15 12:29:26 - ainews - INFO - Crawling 2 websites: ['hackernews', 'lwn']
+2025-08-15 12:29:29 - ainews - INFO - Crawled 90 articles from HackerNews
+2025-08-15 12:29:29 - ainews - INFO - Successfully crawled 90 articles from hackernews
+2025-08-15 12:29:32 - ainews - ERROR - Request failed for https://lwn.net/Articles/1032862/: 403 Client Error: Forbidden for url: https://lwn.net/Articles/1032862/
+2025-08-15 12:29:32 - ainews - WARNING - Failed to get LWN article content for https://lwn.net/Articles/1032862/: Failed to fetch https://lwn.net/Articles/1032862/: 403 Client Error: Forbidden for url: https://lwn.net/Articles/1032862/
+2025-08-15 12:29:35 - ainews - ERROR - Request failed for https://lwn.net/Articles/1032862/bigpage: 403 Client Error: Forbidden for url: https://lwn.net/Articles/1032862/bigpage
+2025-08-15 12:29:35 - ainews - WARNING - Failed to get LWN article content for https://lwn.net/Articles/1032862/bigpage: Failed to fetch https://lwn.net/Articles/1032862/bigpage: 403 Client Error: Forbidden for url: https://lwn.net/Articles/1032862/bigpage
+2025-08-15 12:29:37 - ainews - ERROR - Request failed for https://lwn.net/Articles/1032862/epub: 403 Client Error: Forbidden for url: https://lwn.net/Articles/1032862/epub
+2025-08-15 12:29:37 - ainews - WARNING - Failed to get LWN article content for https://lwn.net/Articles/1032862/epub: Failed to fetch https://lwn.net/Articles/1032862/epub: 403 Client Error: Forbidden for url: https://lwn.net/Articles/1032862/epub
+2025-08-15 12:29:39 - ainews - ERROR - Request failed for https://lwn.net/Articles/1032862/: 403 Client Error: Forbidden for url: https://lwn.net/Articles/1032862/
+2025-08-15 12:29:39 - ainews - WARNING - Failed to get LWN article content for https://lwn.net/Articles/1032862/: Failed to fetch https://lwn.net/Articles/1032862/: 403 Client Error: Forbidden for url: https://lwn.net/Articles/1032862/
+2025-08-15 12:29:41 - ainews - ERROR - Request failed for https://lwn.net/Articles/1032864/: 403 Client Error: Forbidden for url: https://lwn.net/Articles/1032864/
+2025-08-15 12:29:41 - ainews - WARNING - Failed to get LWN article content for https://lwn.net/Articles/1032864/: Failed to fetch https://lwn.net/Articles/1032864/: 403 Client Error: Forbidden for url: https://lwn.net/Articles/1032864/
+2025-08-15 12:29:43 - ainews - ERROR - Request failed for https://lwn.net/Articles/1032865/: 403 Client Error: Forbidden for url: https://lwn.net/Articles/1032865/
+2025-08-15 12:29:43 - ainews - WARNING - Failed to get LWN article content for https://lwn.net/Articles/1032865/: Failed to fetch https://lwn.net/Articles/1032865/: 403 Client Error: Forbidden for url: https://lwn.net/Articles/1032865/
+2025-08-15 12:29:51 - ainews - ERROR - Request failed for https://lwn.net/Articles/1032016/epub: 403 Client Error: Forbidden for url: https://lwn.net/Articles/1032016/epub
+2025-08-15 12:29:51 - ainews - WARNING - Failed to get LWN article content for https://lwn.net/Articles/1032016/epub: Failed to fetch https://lwn.net/Articles/1032016/epub: 403 Client Error: Forbidden for url: https://lwn.net/Articles/1032016/epub
+2025-08-15 12:30:16 - ainews - INFO - Filtered 1 relevant articles from 1 total
+2025-08-15 12:35:51 - ainews - INFO - Filtered 1 relevant articles from 1 total
+2025-08-15 12:38:01 - ainews - INFO - Starting daily crawl process
+2025-08-15 12:38:01 - ainews - INFO - Crawling 1 websites: ['hackernews']
+2025-08-15 12:38:04 - ainews - INFO - Crawled 90 articles from HackerNews
+2025-08-15 12:38:04 - ainews - INFO - Successfully crawled 90 articles from hackernews
+2025-08-15 12:38:04 - ainews - INFO - Total articles crawled: 90
+2025-08-15 12:38:04 - ainews - INFO - Found 90 raw articles
+2025-08-15 12:38:04 - ainews - INFO - Filtered 0 duplicates from 90 articles
+2025-08-15 12:38:04 - ainews - INFO - Filtered 0 duplicates, 90 unique articles
+2025-08-15 12:38:04 - ainews - INFO - Filtered 2 relevant articles from 90 total
+2025-08-15 12:38:04 - ainews - INFO - Found 2 topic-relevant articles
+2025-08-15 12:38:04 - ainews - INFO - Scored 2 articles (top score: 0.419)
+2025-08-15 12:38:04 - ainews - INFO - Final selection: 2 articles after relevance filtering
+2025-08-15 12:38:04 - ainews - INFO - Processing 2 articles for summarization
+2025-08-15 12:38:04 - ainews - INFO - Generating summaries for 2 articles
+2025-08-15 12:38:04 - ainews - ERROR - Unexpected error processing article 'Convo-Lang: LLM Programming La...': can only concatenate str (not "int") to str
+2025-08-15 12:38:04 - ainews - ERROR - Unexpected error processing article 'I made a real-time C/C++/Rust ...': can only concatenate str (not "int") to str
+2025-08-15 12:38:04 - ainews - ERROR - Failed to process article 'Convo-Lang: LLM Programming Language and Runtime...': can only concatenate str (not "int") to str
+2025-08-15 12:38:04 - ainews - ERROR - Failed to process article 'I made a real-time C/C++/Rust build visualizer...': can only concatenate str (not "int") to str
+2025-08-15 12:38:04 - ainews - INFO - Successfully processed 2 new summaries
+2025-08-15 12:38:04 - ainews - INFO - Saved 2 articles for 2025-08-15
+2025-08-15 12:38:04 - ainews - INFO - Processing statistics: {'total_articles': 2, 'articles_with_summaries': 0, 'articles_failed': 2, 'success_rate': 0.0, 'avg_summary_length': 0}
+2025-08-15 12:38:04 - ainews - INFO - Topic distribution: [('AI agentic programming', 1), ('LLM', 1), ('Rust', 1)]
+2025-08-15 12:38:04 - ainews - INFO - Daily crawl completed successfully
+2025-08-15 12:42:20 - ainews - INFO - Starting weekly report generation
+2025-08-15 12:42:20 - ainews - INFO - Generating weekly report
+2025-08-15 12:42:20 - ainews - INFO - Generating weekly report for 2025-08-11 to 2025-08-17
+2025-08-15 12:42:20 - ainews - ERROR - Failed to generate batch summary: can only concatenate str (not "int") to str
+2025-08-15 12:42:20 - ainews - INFO - Generated weekly report with 2 articles
+2025-08-15 12:42:20 - ainews - INFO - Weekly report generation completed successfully
+2025-08-15 12:47:30 - ainews - INFO - Starting weekly report generation
+2025-08-15 12:47:30 - ainews - INFO - Generating weekly report
+2025-08-15 12:47:30 - ainews - INFO - Generating weekly report for 2025-08-11 to 2025-08-17
+2025-08-15 12:47:30 - ainews - ERROR - Failed to generate batch summary: can only concatenate str (not "int") to str
+2025-08-15 12:47:30 - ainews - INFO - Generated weekly report with 2 articles
+2025-08-15 12:47:30 - ainews - INFO - Weekly report generation completed successfully
+2025-08-15 12:48:11 - ainews - INFO - Starting weekly report generation
+2025-08-15 12:48:11 - ainews - INFO - Generating weekly report
+2025-08-15 12:48:11 - ainews - INFO - Generating weekly report for 2025-08-11 to 2025-08-17
+2025-08-15 12:48:11 - ainews - DEBUG - No articles found for date: 2025-08-11
+2025-08-15 12:48:11 - ainews - DEBUG - No articles found for date: 2025-08-12
+2025-08-15 12:48:11 - ainews - DEBUG - No articles found for date: 2025-08-13
+2025-08-15 12:48:11 - ainews - DEBUG - No articles found for date: 2025-08-14
+2025-08-15 12:48:11 - ainews - DEBUG - Loaded 2 articles for 2025-08-15
+2025-08-15 12:48:11 - ainews - DEBUG - No articles found for date: 2025-08-16
+2025-08-15 12:48:11 - ainews - DEBUG - No articles found for date: 2025-08-17
+2025-08-15 12:48:11 - ainews - DEBUG - Found 2 articles between 2025-08-11 and 2025-08-17
+2025-08-15 12:48:11 - ainews - DEBUG - Combined content type: <class 'str'>
+2025-08-15 12:48:11 - ainews - DEBUG - Combined content preview: '1. Convo-Lang: LLM Programming Language and Runtime: Summary generation failed\n2. I made a real-time C/C++/Rust build visualizer: Summary generation failed'
+2025-08-15 12:48:11 - ainews - ERROR - Failed to generate batch summary: can only concatenate str (not "int") to str
+2025-08-15 12:48:11 - ainews - INFO - Generated weekly report with 2 articles
+2025-08-15 12:48:11 - ainews - INFO - Weekly report generation completed successfully
+2025-08-15 12:48:45 - ainews - INFO - Starting weekly report generation
+2025-08-15 12:48:45 - ainews - INFO - Generating weekly report
+2025-08-15 12:48:45 - ainews - INFO - Generating weekly report for 2025-08-11 to 2025-08-17
+2025-08-15 12:48:45 - ainews - DEBUG - No articles found for date: 2025-08-11
+2025-08-15 12:48:45 - ainews - DEBUG - No articles found for date: 2025-08-12
+2025-08-15 12:48:45 - ainews - DEBUG - No articles found for date: 2025-08-13
+2025-08-15 12:48:45 - ainews - DEBUG - No articles found for date: 2025-08-14
+2025-08-15 12:48:45 - ainews - DEBUG - Loaded 2 articles for 2025-08-15
+2025-08-15 12:48:45 - ainews - DEBUG - No articles found for date: 2025-08-16
+2025-08-15 12:48:45 - ainews - DEBUG - No articles found for date: 2025-08-17
+2025-08-15 12:48:45 - ainews - DEBUG - Found 2 articles between 2025-08-11 and 2025-08-17
+2025-08-15 12:48:45 - ainews - DEBUG - Combined content type: <class 'str'>
+2025-08-15 12:48:45 - ainews - DEBUG - Combined content preview: '1. Convo-Lang: LLM Programming Language and Runtime: Summary generation failed\n2. I made a real-time C/C++/Rust build visualizer: Summary generation failed'
+2025-08-15 12:48:45 - ainews - DEBUG - Received articles_summary type: <class 'str'>
+2025-08-15 12:48:45 - ainews - DEBUG - Received articles_summary: '1. Convo-Lang: LLM Programming Language and Runtime: Summary generation failed\n2. I made a real-time C/C++/Rust build visualizer: Summary generation failed'
+2025-08-15 12:48:45 - ainews - DEBUG - Generated prompt type: <class 'str'>
+2025-08-15 12:48:45 - ainews - DEBUG - Generated prompt preview: 'Create a comprehensive weekly summary report from these article summaries:\n\n1. Convo-Lang: LLM Programming Language and Runtime: Summary generation failed\n2. I made a real-time C/C++/Rust build visual'
+2025-08-15 12:48:45 - ainews - ERROR - Failed to generate batch summary: can only concatenate str (not "int") to str
+2025-08-15 12:48:45 - ainews - INFO - Generated weekly report with 2 articles
+2025-08-15 12:48:45 - ainews - INFO - Weekly report generation completed successfully
+2025-08-15 12:49:02 - ainews - INFO - Starting weekly report generation
+2025-08-15 12:49:02 - ainews - INFO - Generating weekly report
+2025-08-15 12:49:02 - ainews - INFO - Generating weekly report for 2025-08-11 to 2025-08-17
+2025-08-15 12:49:02 - ainews - DEBUG - No articles found for date: 2025-08-11
+2025-08-15 12:49:02 - ainews - DEBUG - No articles found for date: 2025-08-12
+2025-08-15 12:49:02 - ainews - DEBUG - No articles found for date: 2025-08-13
+2025-08-15 12:49:02 - ainews - DEBUG - No articles found for date: 2025-08-14
+2025-08-15 12:49:02 - ainews - DEBUG - Loaded 2 articles for 2025-08-15
+2025-08-15 12:49:02 - ainews - DEBUG - No articles found for date: 2025-08-16
+2025-08-15 12:49:02 - ainews - DEBUG - No articles found for date: 2025-08-17
+2025-08-15 12:49:02 - ainews - DEBUG - Found 2 articles between 2025-08-11 and 2025-08-17
+2025-08-15 12:49:02 - ainews - DEBUG - Combined content type: <class 'str'>
+2025-08-15 12:49:02 - ainews - DEBUG - Combined content preview: '1. Convo-Lang: LLM Programming Language and Runtime: Summary generation failed\n2. I made a real-time C/C++/Rust build visualizer: Summary generation failed'
+2025-08-15 12:49:02 - ainews - DEBUG - Received articles_summary type: <class 'str'>
+2025-08-15 12:49:02 - ainews - DEBUG - Received articles_summary: '1. Convo-Lang: LLM Programming Language and Runtime: Summary generation failed\n2. I made a real-time C/C++/Rust build visualizer: Summary generation failed'
+2025-08-15 12:49:02 - ainews - DEBUG - Generated prompt type: <class 'str'>
+2025-08-15 12:49:02 - ainews - DEBUG - Generated prompt preview: 'Create a comprehensive weekly summary report from these article summaries:\n\n1. Convo-Lang: LLM Programming Language and Runtime: Summary generation failed\n2. I made a real-time C/C++/Rust build visual'
+2025-08-15 12:49:02 - ainews - DEBUG - Entering _retry_with_backoff for function: _call_anthropic_weekly_api
+2025-08-15 12:49:02 - ainews - ERROR - Failed to generate batch summary: can only concatenate str (not "int") to str
+2025-08-15 12:49:02 - ainews - INFO - Generated weekly report with 2 articles
+2025-08-15 12:49:02 - ainews - INFO - Weekly report generation completed successfully
+2025-08-15 12:49:14 - ainews - INFO - Starting weekly report generation
+2025-08-15 12:49:14 - ainews - INFO - Generating weekly report
+2025-08-15 12:49:14 - ainews - INFO - Generating weekly report for 2025-08-11 to 2025-08-17
+2025-08-15 12:49:14 - ainews - DEBUG - No articles found for date: 2025-08-11
+2025-08-15 12:49:14 - ainews - DEBUG - No articles found for date: 2025-08-12
+2025-08-15 12:49:14 - ainews - DEBUG - No articles found for date: 2025-08-13
+2025-08-15 12:49:14 - ainews - DEBUG - No articles found for date: 2025-08-14
+2025-08-15 12:49:14 - ainews - DEBUG - Loaded 2 articles for 2025-08-15
+2025-08-15 12:49:14 - ainews - DEBUG - No articles found for date: 2025-08-16
+2025-08-15 12:49:14 - ainews - DEBUG - No articles found for date: 2025-08-17
+2025-08-15 12:49:14 - ainews - DEBUG - Found 2 articles between 2025-08-11 and 2025-08-17
+2025-08-15 12:49:14 - ainews - DEBUG - Combined content type: <class 'str'>
+2025-08-15 12:49:14 - ainews - DEBUG - Combined content preview: '1. Convo-Lang: LLM Programming Language and Runtime: Summary generation failed\n2. I made a real-time C/C++/Rust build visualizer: Summary generation failed'
+2025-08-15 12:49:14 - ainews - DEBUG - Received articles_summary type: <class 'str'>
+2025-08-15 12:49:14 - ainews - DEBUG - Received articles_summary: '1. Convo-Lang: LLM Programming Language and Runtime: Summary generation failed\n2. I made a real-time C/C++/Rust build visualizer: Summary generation failed'
+2025-08-15 12:49:14 - ainews - DEBUG - Generated prompt type: <class 'str'>
+2025-08-15 12:49:14 - ainews - DEBUG - Generated prompt preview: 'Create a comprehensive weekly summary report from these article summaries:\n\n1. Convo-Lang: LLM Programming Language and Runtime: Summary generation failed\n2. I made a real-time C/C++/Rust build visual'
+2025-08-15 12:49:14 - ainews - DEBUG - Entering _retry_with_backoff for function: _call_anthropic_weekly_api
+2025-08-15 12:49:14 - ainews - ERROR - Failed to generate batch summary: can only concatenate str (not "int") to str
+2025-08-15 12:49:14 - ainews - INFO - Generated weekly report with 2 articles
+2025-08-15 12:49:14 - ainews - INFO - Weekly report generation completed successfully
+2025-08-15 12:49:26 - ainews - INFO - Starting weekly report generation
+2025-08-15 12:49:26 - ainews - INFO - Generating weekly report
+2025-08-15 12:49:26 - ainews - INFO - Generating weekly report for 2025-08-11 to 2025-08-17
+2025-08-15 12:49:26 - ainews - DEBUG - No articles found for date: 2025-08-11
+2025-08-15 12:49:26 - ainews - DEBUG - No articles found for date: 2025-08-12
+2025-08-15 12:49:26 - ainews - DEBUG - No articles found for date: 2025-08-13
+2025-08-15 12:49:26 - ainews - DEBUG - No articles found for date: 2025-08-14
+2025-08-15 12:49:26 - ainews - DEBUG - Loaded 2 articles for 2025-08-15
+2025-08-15 12:49:26 - ainews - DEBUG - No articles found for date: 2025-08-16
+2025-08-15 12:49:26 - ainews - DEBUG - No articles found for date: 2025-08-17
+2025-08-15 12:49:26 - ainews - DEBUG - Found 2 articles between 2025-08-11 and 2025-08-17
+2025-08-15 12:49:26 - ainews - DEBUG - Combined content type: <class 'str'>
+2025-08-15 12:49:26 - ainews - DEBUG - Combined content preview: '1. Convo-Lang: LLM Programming Language and Runtime: Summary generation failed\n2. I made a real-time C/C++/Rust build visualizer: Summary generation failed'
+2025-08-15 12:49:26 - ainews - DEBUG - Received articles_summary type: <class 'str'>
+2025-08-15 12:49:26 - ainews - DEBUG - Received articles_summary: '1. Convo-Lang: LLM Programming Language and Runtime: Summary generation failed\n2. I made a real-time C/C++/Rust build visualizer: Summary generation failed'
+2025-08-15 12:49:26 - ainews - DEBUG - Generated prompt type: <class 'str'>
+2025-08-15 12:49:26 - ainews - DEBUG - Generated prompt preview: 'Create a comprehensive weekly summary report from these article summaries:\n\n1. Convo-Lang: LLM Programming Language and Runtime: Summary generation failed\n2. I made a real-time C/C++/Rust build visual'
+2025-08-15 12:49:26 - ainews - DEBUG - Entering _retry_with_backoff for function: _call_anthropic_weekly_api
+2025-08-15 12:49:26 - ainews - ERROR - Failed to generate batch summary: can only concatenate str (not "int") to str
+2025-08-15 12:49:26 - ainews - ERROR - Full traceback: Traceback (most recent call last):
+  File "/home/sunwoo/projects/ainews/src/summarizer/content_processor.py", line 245, in generate_batch_summary
+    weekly_summary = self.llm_client.generate_weekly_summary(combined_content)
+  File "/home/sunwoo/projects/ainews/src/summarizer/llm_client.py", line 231, in generate_weekly_summary
+    return self._retry_with_backoff(self._call_anthropic_weekly_api, prompt)
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sunwoo/projects/ainews/src/summarizer/llm_client.py", line 60, in _retry_with_backoff
+    for attempt in range(max_retries + 1):
+                         ~~~~~~~~~~~~^~~
+TypeError: can only concatenate str (not "int") to str
+
+2025-08-15 12:49:26 - ainews - INFO - Generated weekly report with 2 articles
+2025-08-15 12:49:26 - ainews - INFO - Weekly report generation completed successfully
+2025-08-15 12:50:42 - ainews - INFO - Starting weekly report generation
+2025-08-15 12:50:42 - ainews - INFO - Generating weekly report
+2025-08-15 12:50:42 - ainews - INFO - Generating weekly report for 2025-08-11 to 2025-08-17
+2025-08-15 12:50:42 - ainews - ERROR - Failed to generate batch summary: can only concatenate str (not "int") to str
+2025-08-15 12:50:42 - ainews - INFO - Generated weekly report with 2 articles
+2025-08-15 12:50:42 - ainews - INFO - Weekly report generation completed successfully
+2025-08-15 12:50:59 - ainews - INFO - Starting weekly report generation
+2025-08-15 12:50:59 - ainews - INFO - Generating weekly report
+2025-08-15 12:50:59 - ainews - INFO - Generating weekly report for 2025-08-11 to 2025-08-17
+2025-08-15 12:50:59 - ainews - ERROR - Failed to generate batch summary: can only concatenate str (not "int") to str
+2025-08-15 12:50:59 - ainews - INFO - Generated weekly report with 2 articles
+2025-08-15 12:50:59 - ainews - INFO - Weekly report generation completed successfully
+2025-08-15 12:51:14 - ainews - INFO - Starting weekly report generation
+2025-08-15 12:51:15 - ainews - INFO - Generating weekly report
+2025-08-15 12:51:15 - ainews - INFO - Generating weekly report for 2025-08-11 to 2025-08-17
+2025-08-15 12:51:15 - ainews - INFO - DEBUG: max_retries type: <class 'str'>, value: 'Create a comprehensive weekly summary report from these article summaries:\n\n1. Convo-Lang: LLM Programming Language and Runtime: Summary generation failed\n2. I made a real-time C/C++/Rust build visualizer: Summary generation failed\n\nPlease analyze and provide:\n1. **Key Trends**: Major themes and patterns across articles\n2. **Important Developments**: Significant announcements, releases, or breakthroughs\n3. **Technical Insights**: Notable technical details, security issues, or performance improvements\n4. **Future Implications**: What these developments might mean going forward\n\nStructure your response clearly with sections. Keep it informative but concise.'
+2025-08-15 12:51:15 - ainews - INFO - DEBUG: self.config.max_retries type: <class 'int'>, value: 3
+2025-08-15 12:51:15 - ainews - ERROR - Failed to generate batch summary: can only concatenate str (not "int") to str
+2025-08-15 12:51:15 - ainews - INFO - Generated weekly report with 2 articles
+2025-08-15 12:51:15 - ainews - INFO - Weekly report generation completed successfully
+2025-08-15 12:52:04 - ainews - INFO - Starting weekly report generation
+2025-08-15 12:52:04 - ainews - INFO - Generating weekly report
+2025-08-15 12:52:04 - ainews - INFO - Generating weekly report for 2025-08-11 to 2025-08-17
+2025-08-15 12:52:07 - ainews - INFO - Generated weekly report with 2 articles
+2025-08-15 12:52:07 - ainews - INFO - Weekly report generation completed successfully
+2025-08-15 13:01:36 - ainews - INFO - Filtered 1 relevant articles from 1 total
+2025-08-15 13:01:42 - ainews - INFO - Starting weekly report generation
+2025-08-15 13:01:42 - ainews - INFO - Generating weekly report
+2025-08-15 13:01:42 - ainews - INFO - Generating weekly report for 2025-08-11 to 2025-08-17
+2025-08-15 13:01:46 - ainews - INFO - Generated weekly report with 2 articles
+2025-08-15 13:01:46 - ainews - INFO - Weekly report generation completed successfully
+2025-08-15 13:09:27 - ainews - INFO - Starting weekly report generation
+2025-08-15 13:09:27 - ainews - INFO - Generating weekly report
+2025-08-15 13:09:27 - ainews - INFO - Generating weekly report for 2025-08-11 to 2025-08-17
+2025-08-15 13:09:30 - ainews - INFO - Generated weekly report with 2 articles
+2025-08-15 13:09:30 - ainews - INFO - Weekly report generation completed successfully
+2025-08-15 13:09:52 - ainews - INFO - Starting weekly report generation
+2025-08-15 13:09:52 - ainews - INFO - Generating weekly report
+2025-08-15 13:09:52 - ainews - INFO - Generating weekly report for 2025-08-11 to 2025-08-17
+2025-08-15 13:09:55 - ainews - INFO - Generated weekly report with 2 articles
+2025-08-15 13:09:55 - ainews - INFO - Weekly report generation completed successfully
+2025-08-15 13:17:36 - ainews - INFO - Starting daily crawl process
+2025-08-15 13:17:36 - ainews - INFO - Crawling 1 websites: ['hackernews']
+2025-08-15 13:17:47 - ainews - WARNING - Failed to fetch content from http://erlang.org/download/armstrong_thesis_2003.pdf: Non-text content type: application/pdf
+2025-08-15 13:18:28 - ainews - WARNING - HTTP 0 error for https://www.wsj.com/economy/american-job-housing-economic-dynamism-d56ef8fc
+2025-08-15 13:18:28 - ainews - WARNING - Failed to fetch content from https://www.wsj.com/economy/american-job-housing-economic-dynamism-d56ef8fc: HTTP 0 error for https://www.wsj.com/economy/american-job-housing-economic-dynamism-d56ef8fc
+2025-08-15 13:18:35 - ainews - WARNING - HTTP 0 error for https://www.bloomberg.com/news/articles/2025-08-14/us-producer-prices-rise-by-most-in-three-years-on-services
+2025-08-15 13:18:35 - ainews - WARNING - Failed to fetch content from https://www.bloomberg.com/news/articles/2025-08-14/us-producer-prices-rise-by-most-in-three-years-on-services: HTTP 0 error for https://www.bloomberg.com/news/articles/2025-08-14/us-producer-prices-rise-by-most-in-three-years-on-services
+2025-08-15 13:18:49 - ainews - WARNING - HTTP 0 error for https://www.nytimes.com/2025/08/14/business/energy-environment/ai-data-centers-electricity-costs.html
+2025-08-15 13:18:49 - ainews - WARNING - Failed to fetch content from https://www.nytimes.com/2025/08/14/business/energy-environment/ai-data-centers-electricity-costs.html: HTTP 0 error for https://www.nytimes.com/2025/08/14/business/energy-environment/ai-data-centers-electricity-costs.html
+2025-08-15 13:19:12 - ainews - WARNING - HTTP 0 error for https://www.roadandtrack.com/news/a65780529/volkswagen-uk-locking-id-3-horsepower-behind-subscription/
+2025-08-15 13:19:12 - ainews - WARNING - Failed to fetch content from https://www.roadandtrack.com/news/a65780529/volkswagen-uk-locking-id-3-horsepower-behind-subscription/: HTTP 0 error for https://www.roadandtrack.com/news/a65780529/volkswagen-uk-locking-id-3-horsepower-behind-subscription/
+2025-08-15 13:19:13 - ainews - WARNING - HTTP 0 error for https://www.wsj.com/tech/us-stake-intel-1ff24500
+2025-08-15 13:19:13 - ainews - WARNING - Failed to fetch content from https://www.wsj.com/tech/us-stake-intel-1ff24500: HTTP 0 error for https://www.wsj.com/tech/us-stake-intel-1ff24500
+2025-08-15 13:19:27 - ainews - INFO - Crawled 90 articles from HackerNews
+2025-08-15 13:19:27 - ainews - INFO - Successfully crawled 90 articles from hackernews
+2025-08-15 13:19:27 - ainews - INFO - Total articles crawled: 90
+2025-08-15 13:19:27 - ainews - INFO - Found 90 raw articles
+2025-08-15 13:19:27 - ainews - INFO - Filtered 1 duplicates from 90 articles
+2025-08-15 13:19:27 - ainews - INFO - Filtered 1 duplicates, 89 unique articles
+2025-08-15 13:19:27 - ainews - INFO - Filtered 10 relevant articles from 89 total
+2025-08-15 13:19:27 - ainews - INFO - Found 10 topic-relevant articles
+2025-08-15 13:19:27 - ainews - INFO - Scored 10 articles (top score: 0.671)
+2025-08-15 13:19:27 - ainews - INFO - Final selection: 10 articles after relevance filtering
+2025-08-15 13:19:27 - ainews - INFO - Processing 10 articles for summarization
+2025-08-15 13:19:27 - ainews - INFO - Generating summaries for 10 articles
+2025-08-15 13:23:58 - ainews - INFO - Filtered 1 relevant articles from 1 total
+2025-08-15 13:24:03 - ainews - INFO - Starting daily crawl process
+2025-08-15 13:24:03 - ainews - INFO - Crawling 1 websites: ['hackernews']
+2025-08-15 13:24:12 - ainews - WARNING - Failed to fetch content from http://erlang.org/download/armstrong_thesis_2003.pdf: Non-text content type: application/pdf
+2025-08-15 13:24:49 - ainews - WARNING - HTTP 0 error for https://www.wsj.com/economy/american-job-housing-economic-dynamism-d56ef8fc
+2025-08-15 13:24:49 - ainews - WARNING - Failed to fetch content from https://www.wsj.com/economy/american-job-housing-economic-dynamism-d56ef8fc: HTTP 0 error for https://www.wsj.com/economy/american-job-housing-economic-dynamism-d56ef8fc
+2025-08-15 13:24:54 - ainews - WARNING - HTTP 0 error for https://www.bloomberg.com/news/articles/2025-08-14/us-producer-prices-rise-by-most-in-three-years-on-services
+2025-08-15 13:24:54 - ainews - WARNING - Failed to fetch content from https://www.bloomberg.com/news/articles/2025-08-14/us-producer-prices-rise-by-most-in-three-years-on-services: HTTP 0 error for https://www.bloomberg.com/news/articles/2025-08-14/us-producer-prices-rise-by-most-in-three-years-on-services
+2025-08-15 13:25:07 - ainews - WARNING - HTTP 0 error for https://www.nytimes.com/2025/08/14/business/energy-environment/ai-data-centers-electricity-costs.html
+2025-08-15 13:25:07 - ainews - WARNING - Failed to fetch content from https://www.nytimes.com/2025/08/14/business/energy-environment/ai-data-centers-electricity-costs.html: HTTP 0 error for https://www.nytimes.com/2025/08/14/business/energy-environment/ai-data-centers-electricity-costs.html
+2025-08-15 13:25:35 - ainews - WARNING - HTTP 0 error for https://www.wsj.com/tech/us-stake-intel-1ff24500
+2025-08-15 13:25:35 - ainews - WARNING - Failed to fetch content from https://www.wsj.com/tech/us-stake-intel-1ff24500: HTTP 0 error for https://www.wsj.com/tech/us-stake-intel-1ff24500
+2025-08-15 13:25:36 - ainews - WARNING - HTTP 0 error for https://www.roadandtrack.com/news/a65780529/volkswagen-uk-locking-id-3-horsepower-behind-subscription/
+2025-08-15 13:25:36 - ainews - WARNING - Failed to fetch content from https://www.roadandtrack.com/news/a65780529/volkswagen-uk-locking-id-3-horsepower-behind-subscription/: HTTP 0 error for https://www.roadandtrack.com/news/a65780529/volkswagen-uk-locking-id-3-horsepower-behind-subscription/
+2025-08-15 13:25:48 - ainews - INFO - Crawled 90 articles from HackerNews
+2025-08-15 13:25:48 - ainews - INFO - Successfully crawled 90 articles from hackernews
+2025-08-15 13:25:48 - ainews - INFO - Total articles crawled: 90
+2025-08-15 13:25:48 - ainews - INFO - Found 90 raw articles
+2025-08-15 13:25:48 - ainews - INFO - Filtered 1 duplicates from 90 articles
+2025-08-15 13:25:48 - ainews - INFO - Filtered 1 duplicates, 89 unique articles
+2025-08-15 13:25:48 - ainews - INFO - Filtered 10 relevant articles from 89 total
+2025-08-15 13:25:48 - ainews - INFO - Found 10 topic-relevant articles
+2025-08-15 13:25:48 - ainews - INFO - Scored 10 articles (top score: 0.671)
+2025-08-15 13:25:48 - ainews - INFO - Final selection: 10 articles after relevance filtering
+2025-08-15 13:25:48 - ainews - INFO - Processing 10 articles for summarization
+2025-08-15 13:25:48 - ainews - INFO - Generating summaries for 10 articles
+2025-08-15 13:26:03 - ainews - INFO - Successfully processed 10 new summaries
+2025-08-15 13:26:03 - ainews - INFO - Saved 10 articles for 2025-08-15
+2025-08-15 13:26:03 - ainews - INFO - Processing statistics: {'total_articles': 10, 'articles_with_summaries': 10, 'articles_failed': 0, 'success_rate': 1.0, 'avg_summary_length': 360.7}
+2025-08-15 13:26:03 - ainews - INFO - Topic distribution: [('AI agentic programming', 8), ('Rust', 7), ('LLM', 6)]
+2025-08-15 13:26:03 - ainews - INFO - Daily crawl completed successfully
+2025-08-15 13:26:46 - ainews - INFO - Starting weekly report generation
+2025-08-15 13:26:47 - ainews - INFO - Generating weekly report
+2025-08-15 13:26:47 - ainews - INFO - Generating weekly report for 2025-08-11 to 2025-08-17
+2025-08-15 13:26:55 - ainews - INFO - Generated weekly report with 10 articles
+2025-08-15 13:26:55 - ainews - INFO - Report saved to: data/reports/weekly-report-2025-08-15.md
+2025-08-15 13:26:55 - ainews - INFO - Saved weekly report for week starting 2025-08-11
+2025-08-15 13:26:55 - ainews - INFO - JSON data saved to: data/reports/weekly-report-2025-08-15.json
+2025-08-15 13:26:55 - ainews - INFO - Weekly report generation completed successfully

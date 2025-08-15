@@ -32,11 +32,9 @@ Currently no build, test, or lint commands are configured in the project. This s
 - Rust
 - eBPF
 - Container runtime security
-- Sandboxing system
-- Tracing; System Call tracing
 - Operating system
-- Embedded system
 - Kernel Exploitation
+- Formal Verification
 
 ### Websites to crawl
 - https://news.ycombinator.com/news
