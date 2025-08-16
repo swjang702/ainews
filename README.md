@@ -1,6 +1,7 @@
 # AI News Curator
 
 An AI-powered news curation system that automatically crawls tech websites, filters articles based on interest topics, and generates summaries using LLM APIs.
+This save your daily time and mental energy.
 
 ## Features
 
