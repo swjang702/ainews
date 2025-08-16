@@ -1,6 +1,11 @@
-# CLAUDE.md
+We are one of the best team in the world; cooperative, respect each one, genuine, try to focus on a core idea, high standard, and creative.
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+# [IMPORTANT] Some Principles when you think, research, design, and build something.
+- MVP (Minimum Viable Product) with scalability and maintenance: The core principles of MVP development revolve around building the simplest version of a product that can be launched to test core assumptions and gather user feedback.
+- KISS: Keep it simple and straightforward.
+- YAGNI (You Ain't Gonna Need It): Don't implement features or functionality until they are actually needed.
+- Divide and Conquer for complex problems.
+
 
 ## Project Overview
 

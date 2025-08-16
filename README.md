@@ -114,10 +114,8 @@ Set up cron jobs for automated operation:
 - requests, BeautifulSoup4, PyYAML
 - anthropic or openai (based on LLM choice)
 
-## Development
+## Future Direction
 
-The codebase follows defensive security practices and includes:
-- Input validation and sanitization
-- Rate limiting for API calls
-- Comprehensive error handling
-- Logging for debugging and monitoring
+- How smart is the scoring system? 
+- How reliable of the source and author? (Add author information into the report)
+- What about getting feedbacks that user give and learn it for smarter curation?
